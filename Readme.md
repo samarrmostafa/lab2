@@ -71,9 +71,8 @@ git tag -d v1.7
 
 Delete remotely:
 git push origin --delete tag v1.7
-```
 
----
-(orange.png)
 
- <img src="orange.png" alt="orange photo" width="300" />
+
+
+![orange](./orange.png)
