@@ -74,3 +74,6 @@ git push origin --delete tag v1.7
 ```
 
 ---
+(./orange.png)
+
+ <img src="./orange.png" alt="orange photo" width="300" />
